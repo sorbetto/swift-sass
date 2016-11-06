@@ -1,0 +1,5 @@
+module CSass [system] {
+  header "/usr/local/include/sass.h"
+  link "sass"
+  export *
+}
